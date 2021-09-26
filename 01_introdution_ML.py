@@ -1,5 +1,8 @@
 # (01)*********ML Algo introduction**************
 
+# ----Data Science
+# ..Data Science is a multi-disciplinary field that uses scientific method, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data
+
 # ----Artificial inteligance
 # Any technique which enables computers to mimic human behavior.
 
